@@ -1,0 +1,1 @@
+# Projectos con la APi de openai , huggingface y otras
